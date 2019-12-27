@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfileRijal</string>
+    <string name ="name">Name : Rizal Fikri</string>
+    <string name ="number">Rufnummer : +6289682306491</string>
+    <string name ="email">E-Mail-Addresse : fikrier97.rf@gmail.com</string>
+</resources>
